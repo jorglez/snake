@@ -115,7 +115,6 @@ class Snake
                     }
                 }
                 Console.WriteLine();
-                Console.WriteLine($"score: {score}");
             }
         }
     }
